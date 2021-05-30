@@ -1,0 +1,4 @@
+WEBHOOK_PASSPHRASE = "yourpassphrase"
+
+API_KEY = 'jnRyNUo0bpFcVr9Qs2TZzwuRg6AMzfXNfoZpBdihg2s58n59oR6ywbh0kml2giOh'
+API_SECRET = '1TfxaCddjGsy2PLQgZuLLR1dTOVl5AZbkKUJg7Z8epC1SHfvXoyKaDCZB99PDfnt'
